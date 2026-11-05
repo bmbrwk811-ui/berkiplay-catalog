@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-05T07:52:46Z",
+  "items": [
+    {
+      "id": "cc0-flower-player-check",
+      "title": "اختبار المشغل — مقطع زهرة CC0",
+      "description": "مقطع قصير لاختبار جلب فهرس خارجي وتشغيل فيديو مباشر. ليس فيلمًا تجاريًا.",
+      "kind": "Documentary",
+      "genre": "Nature",
+      "releaseYear": 2026,
+      "quality": "MP4 test",
+      "sourceName": "MDN CC0 sample video",
+      "streamUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "rights": {
+        "type": "CC0",
+        "reviewed": true,
+        "reference": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    }
+  ]
+}
